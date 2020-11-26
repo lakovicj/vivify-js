@@ -1,0 +1,5 @@
+[11/25/2020, 2:25:03 PM]  Kreiran doktor "Milan"
+[11/25/2020, 2:25:03 PM]  Pacijent "Dragan" bira doktora "Milan"
+[11/25/2020, 2:25:03 PM]  Pacijent "Dragan" obavlja analizu.
+[11/25/2020, 2:25:03 PM]  Pacijent "Dragan" obavlja analizu.
+[11/25/2020, 2:25:03 PM]  Kreiran pacijent "Dragan"
